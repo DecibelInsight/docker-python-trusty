@@ -18,3 +18,4 @@ RUN wget --quiet https://www.python.org/ftp/python/2.7.6/Python-2.7.6.tar.xz &&\
 RUN wget --quiet https://bootstrap.pypa.io/get-pip.py &&\
         python get-pip.py &&\
         rm -rf get-pip.py
+ENV PATH /root/.local/bin:$PATH

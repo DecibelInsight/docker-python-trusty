@@ -3,7 +3,7 @@
 # vagrant, 2016-07-24 12:42
 #
 
-VERSION=0.1
+VERSION=0.2
 PY_VERSION=2.7.6
 PY_MD5=bcf93efa8eaf383c98ed3ce40b763497
 NAME=mhristof/python-$(PY_VERSION)-trusty
