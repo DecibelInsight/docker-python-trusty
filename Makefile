@@ -4,8 +4,8 @@
 #
 
 VERSION=0.2
-PY_VERSION=2.7.6
-PY_MD5=bcf93efa8eaf383c98ed3ce40b763497
+PY_VERSION=2.7.12
+PY_MD5=57dffcee9cee8bb2ab5f82af1d8e9a69
 NAME=mhristof/python-$(PY_VERSION)-trusty
 
 default: build
